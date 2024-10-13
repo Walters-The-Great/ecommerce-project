@@ -61,7 +61,7 @@ const Sidebar = () => {
           <ul className="hidden lg:block space-y-2">
             <li>
               <a
-                href="https://twitter.com/mmdrz003"
+                href="/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -70,7 +70,7 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                href="https://github.com/mohammadrz003"
+                href="/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -79,7 +79,7 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/moonfo_dev/"
+                href="/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -107,11 +107,11 @@ const Sidebar = () => {
             </li>
 
             <li className="tracking-wider">
-              <Link to="/about">About</Link>
+              <Link to="/">About</Link>
             </li>
 
             <li className="tracking-wider">
-              <Link to="/contact">Contact</Link>
+              <Link to="/">Contact</Link>
             </li>
           </ul>
         </div>
@@ -126,11 +126,11 @@ const Sidebar = () => {
             </li>
 
             <li className="tracking-wider">
-              <Link to="/about">About</Link>
+              <Link to="/">About</Link>
             </li>
 
             <li className="tracking-wider">
-              <Link to="/contact">Contact</Link>
+              <Link to="/">Contact</Link>
             </li>
           </ul>
         </div>
